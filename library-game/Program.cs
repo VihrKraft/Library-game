@@ -12,13 +12,8 @@ for (int num = 1; num<=gamesCount; num++) {
     File.AppendAllText(filePath, game + "\n"); 
 }
 Console.WriteLine("\nИгры добавлены в бибилиотеку!");
-if (File.Exists(filePath)) {
-    string[] lines = File.ReadAllLines(filePath);
-    Console.WriteLine("\nОбновленный текст файла:");
-    foreach (string line in lines) {
-        Console.WriteLine(line);
-    }
-}
-else {
-    Console.WriteLine("Файл не найден.");
+string[] lines = File.ReadAllLines(filePath);
+Console.WriteLine("\nОбновленный текст файла:");
+foreach (string line in lines) {
+    Console.WriteLine(line);
 }
