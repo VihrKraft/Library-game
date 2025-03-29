@@ -1,6 +1,7 @@
 ﻿string filePath = "GameLibrary.txt";
 Console.Write("Сколько игр хотите добавить? ");
-int gamesCount = int.Parse(Console.ReadLine());
+int gamesCount = 0;
+gamesCount = Console.ReadLine();
 for (int num = 1; num<=gamesCount; num++) {
     Console.Write("\nВведите жанр игры: ");
     string genre = Console.ReadLine();

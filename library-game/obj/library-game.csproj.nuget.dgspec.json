@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Проекты по программированию\\Library game\\library-game\\library-game.csproj": {}
+    "D:\\Проекты по программированию\\Library game\\library-game\\library-game.csproj": {}
   },
   "projects": {
-    "F:\\Проекты по программированию\\Library game\\library-game\\library-game.csproj": {
+    "D:\\Проекты по программированию\\Library game\\library-game\\library-game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Проекты по программированию\\Library game\\library-game\\library-game.csproj",
+        "projectUniqueName": "D:\\Проекты по программированию\\Library game\\library-game\\library-game.csproj",
         "projectName": "library-game",
-        "projectPath": "F:\\Проекты по программированию\\Library game\\library-game\\library-game.csproj",
+        "projectPath": "D:\\Проекты по программированию\\Library game\\library-game\\library-game.csproj",
         "packagesPath": "C:\\Users\\sanef\\.nuget\\packages\\",
-        "outputPath": "F:\\Проекты по программированию\\Library game\\library-game\\obj\\",
+        "outputPath": "D:\\Проекты по программированию\\Library game\\library-game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sanef\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
